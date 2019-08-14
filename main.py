@@ -77,5 +77,5 @@ print(china)
 china2 = china['수업과목']
 print(china2)
 
-pd2[pd2['st_gender']=='M' & pd2['te_gender']=='M'].shape[0]
+pd2[pd2['st_gender']=='F' & pd2['te_gender']=='F'].shape[0]
 
